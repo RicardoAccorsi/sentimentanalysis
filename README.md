@@ -103,7 +103,7 @@ The objective is to understand how institutional language evolves over time and 
 
 - **Concern:** Appears strongly during crisis periods (1999, 2001, 2008, 2011, 2016), showing a direct link between economic stress and more cautious institutional communication.
 
-### Sentiment Dynamics
+### Sentiment Repercussion
 ![Time](Images/time_series.png)
 
 We analyze how different sentiment tones in COPOM minutes relate to short-term macroeconomic dynamics:
