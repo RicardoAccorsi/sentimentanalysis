@@ -53,7 +53,7 @@ The objective is to understand how institutional language evolves over time and 
 ## 🧠 Key Results
 
 ### Sentiment Distribution
-![Distribution](Images/entimentos_por_governo (1)(1).png)
+![Distribution](Images/entimentos_por_governo (1) (1).png)
 
 - **Overall distribution:**  
   The dominant sentiment is **caution (29.2%)**, followed by **confidence (23.6%)** and **concern (22.8%)**, indicating a consistently **prudent and risk-aware communication strategy** by the Central Bank. Lower frequencies of **uncertainty (8.4%)** and **alert (8.4%)** reflect periods of heightened risk, while **optimism (4.4%)** and **accommodation (3.2%)** remain rare, reinforcing a conservative stance focused on stability and inflation control.
@@ -85,7 +85,7 @@ The objective is to understand how institutional language evolves over time and 
 ---
 
 ### Evolution Over Time
-![Time](Images/evolucao_sentimento (1)(1).png)
+![Time](Images/evolucao_sentimento (1) (1).png)
 
 ## 📈 Temporal Evolution of Sentiments
 
@@ -104,7 +104,7 @@ The objective is to understand how institutional language evolves over time and 
 - **Concern:** Appears strongly during crisis periods (1999, 2001, 2008, 2011, 2016), showing a direct link between economic stress and more cautious institutional communication.
 
 ### Sentiment Repercussion
-![Time](Images/repercussao_atas (1)(1).png)
+![Time](Images/repercussao_atas (1) (1).png)
 
 We analyze how different sentiment tones in COPOM minutes relate to short-term macroeconomic dynamics:
 
