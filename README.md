@@ -130,7 +130,7 @@ We analyze how different sentiment tones in COPOM minutes relate to short-term m
 ---
 
 ## TL;DR
-- **Caution, confidence, and concern** are the most frequent sentiments  
-- Central Bank communication is predominantly **prudent and risk-aware**  
-- Sentiment varies across political and economic cycles  
-- Some patterns suggest that **institutional tone may anticipate economic movements**, although not in a strictly linear way
+- **Caution, confidence, and concern** are the most frequent sentiments.
+- Central Bank communication is predominantly **prudent and risk-aware**.  
+- Sentiment varies across political and economic cycles.
+- Some patterns suggest that **institutional tone may anticipate economic movements**, although not in a strictly linear way.
